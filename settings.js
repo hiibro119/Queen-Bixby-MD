@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94758663348']
-global.premium = ['94758663348']
-global.ownernomer = '94758663348'
-global.ownername = '𝐙𝐨𝐨𝐌📲 𝐇𝐃'
+global.owner = ['94784825671']
+global.premium = ['94784825671']
+global.ownernomer = '94784825671'
+global.ownername = '𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾'
 global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ Deploy by 𝐙𝐨𝐨𝐌📲 𝐇𝐃.'
+global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ Deploy by 𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
 global.sc = '😐ලින්ක් එක නෑනෙ සහො😐'
